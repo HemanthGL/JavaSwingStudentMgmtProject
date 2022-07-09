@@ -39,8 +39,4 @@ So we must have two config.properties files in two locations as listed below:
 
 1. /src/config.properties
 
-<<<<<<< HEAD
 2. /out/production/StudentMgmtSys/config.properties
-=======
-2. /out/production/StudentMgmtSys/config.properties
->>>>>>> f8973f6462823e727316ebb1d3ba5e920eed75aa

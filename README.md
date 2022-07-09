@@ -7,6 +7,7 @@ This editor is recommended for use because the project was developed using the s
 
 ### Adding MySQL Connector (JDBC), and rs2xml.jar
 For adding the MySQL connector(JDBC) along with the rs2xml.jar to the project structure, kindly follow the following youtube video (Link: https://www.youtube.com/watch?v=e3AKnrTxFFo) Time Stamp : 12:00 to 13:15.
+<<<<<<< HEAD
 
 For designing the user interface using the Palette in swing, the same video can be referred as well.
 
@@ -14,6 +15,15 @@ For designing the user interface using the Palette in swing, the same video can 
 For adding the MySQL username and password, create a file config.properties in the src folder.
 
 File Location: /src/
+=======
+  
+  For designing the user interface using the Palette in swing, the same video can be referred as well.
+  
+### Adding the username and password (MySQL) in the code
+For adding the MySQL username and password, create a file config.properties in the src folder.
+
+ File Location: /src/
+>>>>>>> f8973f6462823e727316ebb1d3ba5e920eed75aa
 
 Syntax:
 
@@ -39,4 +49,8 @@ So we must have two config.properties files in two locations as listed below:
 
 1. /src/config.properties
 
+<<<<<<< HEAD
 2. /out/production/StudentMgmtSys/config.properties
+=======
+2. /out/production/StudentMgmtSys/config.properties
+>>>>>>> f8973f6462823e727316ebb1d3ba5e920eed75aa
